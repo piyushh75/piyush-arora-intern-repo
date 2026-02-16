@@ -38,5 +38,3 @@ I am strictly implementing the following daily routines to maintain my health:
 
 ### Maintenance & Reminders
 For immediate maintenance, I will **set a manual timer for 1 hour** as a reminder to check my posture and take a movement break. Moving forward, I will work on integrating the **Focus Bear app** to automate these reminders and better manage my focus sessions throughout the day.
-
----
