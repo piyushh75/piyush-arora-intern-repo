@@ -1,4 +1,4 @@
-# Cybersecurity Training Guide
+# Cyber Security Guidelines
 
 ## 🔍 Research & Learn
 
