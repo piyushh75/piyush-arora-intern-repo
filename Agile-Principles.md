@@ -84,15 +84,3 @@ The principle I find most useful is: **"Working software is the primary measure 
 For a cybersecurity professional, "working" must also mean "secure." This principle reminds me that my goal isn't just to write policies or reports, but to ensure that the actual software Focus Bear users interact with is functional, resilient, and safe.
 
 This keeps me focused on practical, implementable security measures that directly protect users, rather than getting lost in theoretical frameworks or excessive documentation that doesn't add real value.
-
----
-
-## 🎓 Key Takeaways
-
-1. **Agile enables rapid security response** - The ability to address vulnerabilities immediately is critical in cybersecurity.
-
-2. **Kanban fits Focus Bear's needs** - Continuous flow allows for urgent security fixes without disrupting planned work.
-
-3. **Balance is essential** - While Agile prioritizes working software, security compliance still requires disciplined documentation.
-
-4. **Security must shift left** - Integrating security early and iteratively is more effective than end-stage security audits.
